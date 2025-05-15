@@ -1,4 +1,4 @@
-        $(document).ready(function(){
+          $(document).ready(function(){
             // Mostrar la sección "Inicio" al cargar
             $('#home').show();
             $('#destacados').hide();
